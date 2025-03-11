@@ -1,28 +1,2 @@
 {
-    "Sigmaboy": {
-        "password": "123qwerty",
-        "key": "TEST123",
-        "havesub": "yes"
-    },
-    "BigBoy": {
-        "password": "qwerty1377",
-        "key": "no",
-        "havesub": "no"
-    },
-    "\u0444\u043a\u0435\u0443\u044c": {
-        "password": "\u0443\u043a\u0442\u044c",
-        "key": "TEST123",
-        "havesub": "yes"
-    },
-    "porno": {
-        "password": "sex",
-        "key": "FOREVER_KEY",
-        "havesub": "yes"
-    },
-    "dildoboy": {
-        "password": "123",
-        "key": "TEST123",
-        "hwid": "35233568271594",
-        "havesub": "yes"
-    }
 }
