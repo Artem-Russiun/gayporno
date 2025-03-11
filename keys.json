@@ -1,7 +1,9 @@
 {
     "TEST123": {
-        "status": "noctivated",
-        "days": "30"
+        "status": "activated",
+        "days": "30",
+        "activation_date": "2025-03-11",
+        "expiration_date": "2025-04-10"
     },
     "FOREVER_KEY": {
         "status": "activated",
