@@ -6,7 +6,7 @@
         "expiration_date": "2025-04-10"
     },
     "FOREVER_KEY": {
-        "status": "activated",
+        "status": "noactivated",
         "days": "forever",
         "activation_date": "2025-03-11"
     }
