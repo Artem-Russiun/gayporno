@@ -1,0 +1,12 @@
+{
+    "Sigmaboy": { 
+        "password": "123qwerty", 
+        "key": "TEST123", 
+        "havesub": "yes"
+    },
+    "BigBoy": { 
+        "password": "qwerty1377", 
+        "key": "no", 
+        "havesub": "no"
+    }
+}
