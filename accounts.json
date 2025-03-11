@@ -7,7 +7,9 @@
     },
     "Artem": {
         "password": "Krutoi",
+        "key": "PQ39XW8LFKZV7JQ2NDY6",
         "hwid": "9f3e48131a34",
-        "havesub": "no",
+        "havesub": "yes",
+        "sub_end": "2025-12-03"
     }
 }
