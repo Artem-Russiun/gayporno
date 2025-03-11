@@ -1,6 +1,6 @@
 {
     "TEST123": {
-        "status": "not_activated",
+        "status": "activated",
         "days": "30",
         "activation_date": null
     },
