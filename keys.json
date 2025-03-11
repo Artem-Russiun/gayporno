@@ -1,10 +1,12 @@
 {
     "TEST123": {
-        "status": "activated",
-        "days": "30"
+        "status": "not_activated",
+        "days": "30",
+        "activation_date": null
     },
-    "KEY456": {
+    "FOREVER_KEY": {
         "status": "activated",
-        "days": "30"
+        "days": "forever",
+        "activation_date": "2025-03-11"
     }
 }
