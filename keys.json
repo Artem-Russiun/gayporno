@@ -20,8 +20,10 @@
         "days": "forever"
     },
     "V7JQ2NDY64XW8LFKZP39": {
-        "status": "noactivated",
-        "days": 365
+        "status": "activated",
+        "days": 365,
+        "activation_date": "2025-03-11",
+        "expiration_date": "2026-03-11"
     },
     "NDY64XW8LFKZV7JQP239": {
         "status": "noactivated",
