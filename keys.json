@@ -1,7 +1,9 @@
 {
     "XKZ3F8YJQ4LV97BWP2NT": {
-        "status": "noactivated",
-        "days": 312
+        "status": "activated",
+        "days": 312,
+        "activation_date": "2025-03-11",
+        "expiration_date": "2026-01-17"
     },
     "J7QP2NDY64XW8LFKZV39": {
         "status": "noactivated",
