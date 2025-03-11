@@ -1,15 +1,17 @@
-{
-    "b1terFUN": {
-        "password": "q1werty1aprel100",
-        "key": "XKZ3F8YJQ4LV97BWP2NT",
-        "hwid": "824811842772",
-        "havesub": "yes"
-    },
-    "Artem": {
-        "password": "Krutoi",
-        "key": "PQ39XW8LFKZV7JQ2NDY6",
-        "hwid": "9f3e48131a34",
-        "havesub": "yes",
-        "sub_end": "2025-12-03"
+[
+    {
+        "b1terFUN": {
+            "password": "q1werty1aprel100",
+            "key": "XKZ3F8YJQ4LV97BWP2NT",
+            "hwid": "824811842772",
+            "havesub": "yes"
+        },
+        "Artem": {
+            "password": "Krutoi",
+            "key": "PQ39XW8LFKZV7JQ2NDY6",
+            "hwid": "9f3e48131a34",
+            "havesub": "yes",
+            "sub_end": "2025-12-03"
+        }
     }
-}
+]
