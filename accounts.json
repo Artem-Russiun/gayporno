@@ -13,5 +13,10 @@
         "password": "\u0443\u043a\u0442\u044c",
         "key": "TEST123",
         "havesub": "yes"
+    },
+    "porno": {
+        "password": "sex",
+        "key": "FOREVER_KEY",
+        "havesub": "yes"
     }
 }
