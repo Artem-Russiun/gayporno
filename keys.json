@@ -1,7 +1,7 @@
 {
     "TEST123": {
         "status": "noactivated",
-        "days": "30",
+        "days": "30"
     },
     "FOREVER_KEY": {
         "status": "activated",
