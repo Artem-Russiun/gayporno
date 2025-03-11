@@ -1,8 +1,10 @@
 {
     "TEST123": {
         "status": "not_activated"
+        "days": "30"
     },
     "KEY456": {
         "status": "activated"
+        "days": "30"
     }
 }
