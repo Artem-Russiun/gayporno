@@ -1,29 +1,23 @@
 {
     "XKZ3F8YJQ4LV97BWP2NT": {
-        "status": "activated",
+        "status": "noactivated",
         "days": 312,
-        "activation_date": "2025-03-11",
-        "expiration_date": "2026-01-17"
     },
     "J7QP2NDY64XW8LFKZV39": {
         "status": "noactivated",
         "days": 154
     },
     "PQ39XW8LFKZV7JQ2NDY6": {
-        "status": "activated",
+        "status": "noactivated",
         "days": 267,
-        "activation_date": "2025-03-11",
-        "expiration_date": "2025-12-03"
     },
     "RT8HRT7H89R0THRTH8R045": {
         "status": "noactivated",
         "days": "forever"
     },
     "V7JQ2NDY64XW8LFKZP39": {
-        "status": "activated",
+        "status": "noactivated",
         "days": 365,
-        "activation_date": "2025-03-11",
-        "expiration_date": "2026-03-11"
     },
     "NDY64XW8LFKZV7JQP239": {
         "status": "noactivated",
