@@ -16,8 +16,9 @@
         "days": 267
     },
     "RT8HRT7H89R0THRTH8R045": {
-        "status": "noactivated",
-        "days": "forever"
+        "status": "activated",
+        "days": "forever",
+        "activation_date": "2025-03-12"
     },
     "V7JQ2NDY64XW8LFKZP39": {
         "status": "noactivated",
