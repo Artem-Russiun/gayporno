@@ -12,5 +12,12 @@
         "hwid": "1fcf45677f62",
         "havesub": "yes",
         "sub_end": "2025-08-13"
+    },
+    "River": {
+        "password": "River",
+        "key": "RT8HRT7H89R0THRTH8R045",
+        "hwid": "1fcf45677f62",
+        "havesub": "no",
+        "sub_end": "no"
     }
 }
