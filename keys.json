@@ -27,8 +27,10 @@
         "days": 365
     },
     "NDY64XW8LFKZV7JQP239": {
-        "status": "noactivated",
-        "days": 289
+        "status": "activated",
+        "days": 289,
+        "activation_date": "2025-03-12",
+        "expiration_date": "2025-12-26"
     },
     "ZV7JQ2NDY64XW8LFKP39": {
         "status": "noactivated",
