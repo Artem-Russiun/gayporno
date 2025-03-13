@@ -16,5 +16,9 @@
     "ц": {
         "password": "цц",
         "havesub": "no"
+    },
+    "123": {
+        "password": "123",
+        "havesub": "no"
     }
 }
