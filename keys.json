@@ -84,8 +84,9 @@
         "days": "forever"
     },
     "V7JQP2NDY6439XW8LFKZ": {
-        "status": "noactivated",
-        "days": "forever"
+        "status": "activated",
+        "days": "forever",
+        "activation_date": "2025-03-14"
     },
     "JQP2NDY6439XW8LFKZV7": {
         "status": "noactivated",
