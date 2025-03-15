@@ -890,10 +890,10 @@
     },
     "Dhhdjdhdur374": {
         "status": "noactivated",
-        "days": 30
+        "days": "forever"
     },
     "Fhhehdhd73": {
         "status": "noactivated",
-        "days": 15
+        "days": "forever"
     }
 }
