@@ -4,35 +4,41 @@
         "key": "XKZ3F8YJQ4LV97BWP2NT",
         "hwid": "1fcf45677f62",
         "havesub": "yes",
-        "sub_end": "2026-01-18"
+        "sub_end": "2026-01-18",
+        "uid": 1
     },
     "RiverTT": {
         "password": "Rivertt",
         "key": "NDY64XW8LFKZV7JQP239",
         "hwid": "1fcf45677f62",
         "havesub": "yes",
-        "sub_end": "2025-12-26"
+        "sub_end": "2025-12-26",
+        "uid": 2
     },
-    "\u0446": {
-        "password": "\u0446\u0446",
-        "havesub": "no"
+    "ц": {
+        "password": "цц",
+        "havesub": "no",
+        "uid": 3
     },
     "123": {
         "password": "123",
-        "havesub": "no"
+        "havesub": "no",
+        "uid": 4
     },
     "baciliibymifQ": {
         "password": "209830sigmaboy",
         "key": "V7JQP2NDY6439XW8LFKZ",
         "hwid": "9f3e48131a34",
         "havesub": "no",
-        "sub_end": "no"
-    }
+        "sub_end": "no",
+        "uid": 5
+    },
     "Dev": {
         "password": "devv",
         "key": "V7JQP2NDY6439XW8LFKZ",
         "hwid": "9f3e48131a34",
         "havesub": "yes",
-        "sub_end": "no"
+        "sub_end": "no",
+        "uid": 6
     }
 }
