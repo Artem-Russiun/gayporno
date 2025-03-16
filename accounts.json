@@ -41,8 +41,9 @@
         "sub_end": "2026-01-22",
         "uid": 6
     },
-    "Artemkrutoi": {
-        "password": "209830",
-        "havesub": "no"
+    "1": {
+        "password": "1",
+        "havesub": "no",
+        "uid": 7
     }
 }
