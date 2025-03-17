@@ -14,8 +14,10 @@
     "days": 154
   },
   "PQ39XW8LFKZV7JQ2NDY6": {
-    "status": "noactivated",
-    "days": 267
+    "status": "activated",
+    "days": 267,
+    "activation_date": "2025-03-17",
+    "expiration_date": "2025-12-09"
   },
   "RT8HRT7H89R0THRTH8R045": {
     "status": "noactivated",
