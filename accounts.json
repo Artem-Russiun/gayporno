@@ -64,5 +64,10 @@
         "password": "123",
         "havesub": "yes",
         "uid": 10
+    },
+    "DEFA": {
+        "password": "gooblyck777",
+        "havesub": "no",
+        "uid": 83
     }
 }
