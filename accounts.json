@@ -29,8 +29,8 @@
         "sub_end": "2025-12-26",
         "uid": 2
     },
-    "\u0446": {
-        "password": "\u0446\u0446",
+    "ц": {
+        "password": "цц",
         "havesub": "no",
         "uid": 3
     },
@@ -49,5 +49,10 @@
         "havesub": "yes",
         "sub_end": "2025-12-09",
         "uid": 6
+    },
+    "b1terFUN": {
+        "password": "q1werty1aprel100",
+        "havesub": "no",
+        "uid": 8
     }
 }
