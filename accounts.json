@@ -59,5 +59,10 @@
         "password": "devv",
         "havesub": "no",
         "uid": 9
+    },
+    "12345": {
+        "password": "123",
+        "havesub": "no",
+        "uid": 83
     }
 }
