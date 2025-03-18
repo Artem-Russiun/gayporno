@@ -50,7 +50,7 @@
     "sub_end": "2025-12-09",
     "uid": 6,
     "haveban": "yes",
-    "bantill": "forever",
+    "bantill": "1488minutes",
     "whyban": "CRACK"
   }
 }
