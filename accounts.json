@@ -54,5 +54,10 @@
         "password": "q1werty1aprel100",
         "havesub": "yes",
         "uid": 8
+    },
+    "Dev1": {
+        "password": "devv",
+        "havesub": "no",
+        "uid": 9
     }
 }
