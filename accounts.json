@@ -62,7 +62,7 @@
     },
     "12345": {
         "password": "123",
-        "havesub": "no",
+        "havesub": "yes",
         "uid": 83
     }
 }
